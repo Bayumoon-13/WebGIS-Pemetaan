@@ -1,0 +1,9 @@
+{
+    "name": "bayu/webgis-perumahan",
+    "require": {
+        "joshcam/mysqli-database-class": "dev-master",
+        "josantonius/session": "^1.1",
+        "verot/class.upload.php": "dev-master"
+    },
+    "license": "tidak ada"
+}
